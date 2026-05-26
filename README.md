@@ -4,12 +4,12 @@ An interactive sales analytics dashboard built on the Sample Superstore dataset,
 Tool Used
 Power BI Desktop — Dashboard creation & interactive visuals
 
-Dataset
-Source: Superstore Dataset — Kaggle
-Size: ~10,000 orders | 21 columns
+Dataset  
+Source: Superstore Dataset — Kaggle  
+Size: ~10,000 orders | 21 columns  
 Fields: Order Date, Region, Category, Sub-Category, Sales, Profit, Discount, Quantity, Customer Segment
 
-Dashboard Features
+Dashboard Features  
 KPI Cards - Total Sales (2.30M) and Total Profit (286.40K) at a glance   
 Sales by RegionBar - chart comparing West, East, Central, South  
 Monthly Sales TrendLine - chart showing sales over time (2014–2017)  
