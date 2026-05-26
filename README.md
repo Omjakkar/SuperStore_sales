@@ -10,9 +10,9 @@ Size: ~10,000 orders | 21 columns
 Fields: Order Date, Region, Category, Sub-Category, Sales, Profit, Discount, Quantity, Customer Segment
 
 Dashboard Features
-KPI Cards - Total Sales (2.30M) and Total Profit (286.40K) at a glance
-Sales by RegionBar - chart comparing West, East, Central, South
-Monthly Sales TrendLine - chart showing sales over time (2014–2017)
-Sales by Category - Donut chart — Technology, Furniture, Office Supplies
-Top 10 Products - Horizontal bar chart of highest-revenue products
+KPI Cards - Total Sales (2.30M) and Total Profit (286.40K) at a glance   
+Sales by RegionBar - chart comparing West, East, Central, South  
+Monthly Sales TrendLine - chart showing sales over time (2014–2017)  
+Sales by Category - Donut chart — Technology, Furniture, Office Supplies  
+Top 10 Products - Horizontal bar chart of highest-revenue products  
 Region Slicer - Interactive filter, click any region to drill down all visuals
